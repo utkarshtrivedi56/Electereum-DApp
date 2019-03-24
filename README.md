@@ -1,2 +1,2 @@
 # Electereum-DApp
-a ethereum based voting application
+An ethereum based voting application
